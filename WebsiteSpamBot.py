@@ -1,3 +1,4 @@
+#A useless python program that spams website tabs on the victim's browser!
 import webbrowser
 import time
 import random
